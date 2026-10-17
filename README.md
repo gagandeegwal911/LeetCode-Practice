@@ -29,6 +29,7 @@ My LeetCode solutions in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -38,4 +39,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
