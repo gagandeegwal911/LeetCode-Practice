@@ -48,6 +48,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -73,4 +74,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
