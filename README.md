@@ -47,6 +47,7 @@ My LeetCode solutions in C++
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
