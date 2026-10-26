@@ -26,6 +26,7 @@ My LeetCode solutions in C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ My LeetCode solutions in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -88,4 +90,8 @@ My LeetCode solutions in C++
 | [0203-remove-linked-list-elements](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
