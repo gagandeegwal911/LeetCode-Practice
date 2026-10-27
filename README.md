@@ -14,6 +14,7 @@ My LeetCode solutions in C++
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
@@ -45,6 +46,7 @@ My LeetCode solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
