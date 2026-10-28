@@ -14,6 +14,7 @@ My LeetCode solutions in C++
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
