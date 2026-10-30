@@ -16,6 +16,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ My LeetCode solutions in C++
 | [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -106,6 +108,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
