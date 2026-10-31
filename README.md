@@ -32,6 +32,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ My LeetCode solutions in C++
 | [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
