@@ -21,6 +21,7 @@ My LeetCode solutions in C++
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -93,6 +94,7 @@ My LeetCode solutions in C++
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -121,6 +123,7 @@ My LeetCode solutions in C++
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
