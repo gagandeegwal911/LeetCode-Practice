@@ -18,6 +18,7 @@ My LeetCode solutions in C++
 | [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0641-design-circular-deque](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@ My LeetCode solutions in C++
 | [0206-reverse-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -101,6 +103,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -132,4 +135,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
