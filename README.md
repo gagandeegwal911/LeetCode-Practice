@@ -31,6 +31,7 @@ My LeetCode solutions in C++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0556-next-greater-element-iii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@ My LeetCode solutions in C++
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
@@ -116,6 +118,7 @@ My LeetCode solutions in C++
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
