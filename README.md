@@ -6,6 +6,7 @@ My LeetCode solutions in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -14,6 +15,7 @@ My LeetCode solutions in C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -175,6 +177,7 @@ My LeetCode solutions in C++
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
