@@ -18,6 +18,7 @@ My LeetCode solutions in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0018-4sum) |
+| [0059-spiral-matrix-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ My LeetCode solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 ## Linked List
@@ -189,4 +191,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
