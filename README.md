@@ -24,6 +24,7 @@ My LeetCode solutions in C++
 | [0485-max-consecutive-ones](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
@@ -97,6 +98,7 @@ My LeetCode solutions in C++
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -192,6 +194,7 @@ My LeetCode solutions in C++
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Matrix
