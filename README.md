@@ -46,6 +46,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0556-next-greater-element-iii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1844-replace-all-digits-with-characters) |
@@ -97,6 +98,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0146-lru-cache) |
+| [0383-ransom-note](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -201,4 +203,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
