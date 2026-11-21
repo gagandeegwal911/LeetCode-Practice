@@ -211,6 +211,7 @@ My LeetCode solutions in C++
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -218,6 +219,7 @@ My LeetCode solutions in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -225,6 +227,7 @@ My LeetCode solutions in C++
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -232,6 +235,7 @@ My LeetCode solutions in C++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0993-cousins-in-binary-tree) |
