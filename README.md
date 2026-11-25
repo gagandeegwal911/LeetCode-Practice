@@ -30,6 +30,7 @@ My LeetCode solutions in C++
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -178,6 +179,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1046-last-stone-weight](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
