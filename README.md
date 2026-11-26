@@ -49,6 +49,7 @@ My LeetCode solutions in C++
 | [0020-valid-parentheses](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0556-next-greater-element-iii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1844-replace-all-digits-with-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -60,6 +61,7 @@ My LeetCode solutions in C++
 | [0141-linked-list-cycle](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -76,6 +78,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
@@ -118,6 +121,7 @@ My LeetCode solutions in C++
 | [0496-next-greater-element-i](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
