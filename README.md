@@ -236,6 +236,7 @@ My LeetCode solutions in C++
 | [0226-invert-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0993-cousins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,4 +258,13 @@ My LeetCode solutions in C++
 | [0226-invert-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0993-cousins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
