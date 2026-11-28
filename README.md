@@ -40,6 +40,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0556-next-greater-element-iii](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gagandeegwal911/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
